@@ -1,0 +1,71 @@
+[
+  {
+    "source": "01-focusing-en-clean.png",
+    "source_sha256": "4030f40c8a7571e16a5cbadfdd6ea41633337a99e277ef88a18cdc8bd2fc8dd7",
+    "file": "01-focusing-en-6p5.png",
+    "scaled_size": [
+      1278,
+      2778
+    ],
+    "offset": [
+      3,
+      0
+    ],
+    "background_rgb": [
+      244,
+      228,
+      191
+    ],
+    "size": [
+      1284,
+      2778
+    ],
+    "sha256": "5393d377fbcad30123bac7845b955e65c1b9de364e683369c9ca03a29b0835aa"
+  },
+  {
+    "source": "02-necessary-access-en-clean.png",
+    "source_sha256": "dcb97c2612ff2ee6c276a9956099ec97270e2c66605f190304600ac3fc40525e",
+    "file": "02-necessary-access-en-6p5.png",
+    "scaled_size": [
+      1278,
+      2778
+    ],
+    "offset": [
+      3,
+      0
+    ],
+    "background_rgb": [
+      244,
+      228,
+      191
+    ],
+    "size": [
+      1284,
+      2778
+    ],
+    "sha256": "c7a2e8949c04917d26903dc86a5d003288d7612220cdbe0837e12333023452e8"
+  },
+  {
+    "source": "03-completed-en-clean.png",
+    "source_sha256": "c2582deba8353b3847cb6da6725093961c35b2645c874c69078e215812f2c36b",
+    "file": "03-completed-en-6p5.png",
+    "scaled_size": [
+      1278,
+      2778
+    ],
+    "offset": [
+      3,
+      0
+    ],
+    "background_rgb": [
+      244,
+      228,
+      191
+    ],
+    "size": [
+      1284,
+      2778
+    ],
+    "sha256": "aea7f9af300f32a693837262be49188fda4ab8e2cce41770acfdf244946239dc"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "file": "01-task-setup.png",
+    "width": 1284,
+    "height": 2778,
+    "bytes": 572895,
+    "sha256": "a691728c6201a22ab69bcfcd56761f1d47e2cabbe77a69e43008bf417b08f1ed"
+  },
+  {
+    "file": "02-companion.png",
+    "width": 1284,
+    "height": 2778,
+    "bytes": 872807,
+    "sha256": "b1067818716fa7e6d16411d5b0af71d4951f5d5dfbe1c69453026918b3eee198"
+  },
+  {
+    "file": "03-settings.png",
+    "width": 1284,
+    "height": 2778,
+    "bytes": 288897,
+    "sha256": "02809d9a2fc0ba83ba6bdf67c4e2e2f0e9d90511f2adabd42efccf465471918b"
+  }
+]

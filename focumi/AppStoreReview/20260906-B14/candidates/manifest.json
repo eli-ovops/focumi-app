@@ -1,0 +1,29 @@
+[
+  {
+    "title": "专注中",
+    "file": "01-focusing-en-clean.png",
+    "dimensions": [
+      1206,
+      2622
+    ],
+    "sha256": "4030f40c8a7571e16a5cbadfdd6ea41633337a99e277ef88a18cdc8bd2fc8dd7"
+  },
+  {
+    "title": "申请临时使用",
+    "file": "02-necessary-access-en-clean.png",
+    "dimensions": [
+      1206,
+      2622
+    ],
+    "sha256": "dcb97c2612ff2ee6c276a9956099ec97270e2c66605f190304600ac3fc40525e"
+  },
+  {
+    "title": "完成专注",
+    "file": "03-completed-en-clean.png",
+    "dimensions": [
+      1206,
+      2622
+    ],
+    "sha256": "c2582deba8353b3847cb6da6725093961c35b2645c874c69078e215812f2c36b"
+  }
+]

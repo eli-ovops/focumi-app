@@ -1,0 +1,99 @@
+schema_version: "1.0"
+status: "active"
+site_id: "focumi-public-pages"
+project: "Focumi public privacy and support pages"
+confirmed_by: "Focumi owner via explicit authorization"
+confirmed_at: "2026-08-25"
+no_secret_values: true
+
+server:
+  reference: "GitHub Pages"
+  owner: "GitHub Pages service"
+
+environments:
+  preview:
+    enabled: false
+    public_url: null
+    admin_path: null
+  production:
+    enabled: true
+    public_url: "https://eli-ovops.github.io/focumi/"
+    admin_path: null
+
+repository:
+  repo_url: "https://github.com/eli-ovops/focumi"
+  approved_branch: "gh-pages"
+  production_branch: "gh-pages"
+  commit_sha_required: true
+
+architecture: "static"
+
+toolchain:
+  node: null
+  pnpm_major: null
+  package_manager: null
+  lockfile: null
+  payload_version: null
+
+runtime:
+  app_port_reference: null
+  health_port_reference: null
+
+deployment:
+  mechanism: "console"
+  call_carrier: "GitHub repository plus GitHub Pages configuration"
+  forced_command_reference: null
+  allowed_modes:
+    - "GitHub Pages static branch publication"
+  guide_reference: "site.yaml"
+  production_approval_required: true
+  authorization_reference: "Focumi owner authorization dated 2026-08-25"
+  deploy_owner: "Focumi release owner"
+  validate_required: "not-applicable"
+  status_required: true
+  eli_preview_exception: false
+
+storage:
+  code_reference: "GitHub repository gh-pages branch"
+  releases_reference: "Git commit history"
+  database_reference: "none"
+  media_reference: "none"
+
+database:
+  type: "other"
+  credential_secret_ref: "none"
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "Focumi owner"
+  developer: "Focumi release owner"
+  server_owner: "GitHub Pages service"
+
+migration:
+  required: false
+  required_for_localization: false
+  procedure_reference: "not applicable"
+  production_approval_required: true
+
+backup:
+  procedure_reference: "Git commit history"
+  database_and_media_separate: true
+  restore_rehearsal_required: false
+
+release_retention:
+  policy_reference: "Git commit history"
+  previous_accepted_release_required: false
+
+health_checks:
+  public_page: "Browser requests to /privacy/ and /support/ return the expected public content"
+  application: "not applicable"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "Revert the gh-pages commit with explicit owner authorization"
+  explicit_authorization_required: true

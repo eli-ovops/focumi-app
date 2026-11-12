@@ -1,0 +1,19 @@
+{
+  "captured_at": "2026-08-24T16:00:59+08:00",
+  "source_head": "6c84950615a0132878e38772007d288ccc381967",
+  "source_diff_sha256": "1b4fd5ed0d7f96aea476d97b15a0431c5fd51daa334ded08e864a3ae16309228",
+  "configuration": "Debug",
+  "bundle_identifier": "com.cczij.disciplinedpet",
+  "version": "0.6.0",
+  "build": "10",
+  "app_path": "/Users/USER/Library/Developer/Xcode/DerivedData/DisciplinedPet-SettingsLocalizationFixRetry-20260824/Build/Products/Debug-iphoneos/DisciplinedPet.app",
+  "app_mtime": "2026-08-24T16:00:26+08:00",
+  "executable_sha256": "39cd2ac14c49db7f06c5f528b31d690b9c243aa845c0320e76c0c2f75e965554",
+  "target_device": {
+    "name": "XXXTENTACION",
+    "marketing_name": "iPhone 17",
+    "product_type": "iPhone18,3",
+    "ios_version": "27.0",
+    "udid": "00008150-0001095A360A401C"
+  }
+}

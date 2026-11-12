@@ -1,0 +1,9 @@
+{
+  "file": "02-necessary-access-en-clean.png",
+  "dimensions": [
+    1206,
+    2622
+  ],
+  "sha256": "dcb97c2612ff2ee6c276a9956099ec97270e2c66605f190304600ac3fc40525e",
+  "status": "Visually checked: no AssistiveTouch or source-app breadcrumb. Primary CTA visible; secondary CTA below viewport. Await user review and ASC size-slot validation. Unedited."
+}

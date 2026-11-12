@@ -1,0 +1,46 @@
+{
+  "captured_at": "2026-08-24T00:00:00+08:00",
+  "candidate_authority": "Current-user upload authorization; source identity is the frozen working tree below.",
+  "git": {
+    "head": "6c84950615a0132878e38772007d288ccc381967",
+    "branch": "codex/v0.6-redesign",
+    "tracked_modified_count": 14,
+    "tracked_modified_content_sha256": "378b13fb7fea6a386ded12e1f656aafbecadc6081a084a99b2e28f422ccd4617",
+    "untracked_entry_count": 1518,
+    "untracked_tree_sha256": "506677de8d2b6bd5ed950371be1a33bcef2718bcb9a78277c602ffe40ab59781",
+    "status_sha256": "c9af0db250ccd39d9217d9ae938f5711ef2c45fa5e5036a228dd8cd8dd586bc1",
+    "tracked_diff_sha256": "cd4c706448f858f836e41953f1a4029c40d9a0a04cb82442cb4f4ae48c4aa8a6",
+    "tracked_modified_files": [
+      "Config/DisciplinedPet-Info.plist",
+      "DisciplinedPet.xcodeproj/project.pbxproj",
+      "DisciplinedPet/App/DisciplinedPetApp.swift",
+      "DisciplinedPet/Application/FriendMVPModel.swift",
+      "DisciplinedPet/Application/P0CapabilityModel.swift",
+      "DisciplinedPet/Features/FriendMVP/CompanionPresentation.swift",
+      "DisciplinedPet/Features/FriendMVP/FocusPresentationCopy.swift",
+      "DisciplinedPet/Features/FriendMVP/FriendMVPView.swift",
+      "DisciplinedPet/Features/FriendMVP/PetAvatarView.swift",
+      "DisciplinedPet/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "DisciplinedPet/Resources/Localizable.xcstrings",
+      "DisciplinedPet/Resources/en.lproj/InfoPlist.strings",
+      "DisciplinedPet/Resources/zh-Hans.lproj/InfoPlist.strings",
+      "DisciplinedPetCoreTests/Domain/FriendMVPReducerTests.swift"
+    ]
+  },
+  "version": { "marketing_version": "0.6.0", "build_number": "10" },
+  "bundle_ids": [
+    "com.cczij.disciplinedpet",
+    "com.cczij.disciplinedpet.monitor",
+    "com.cczij.disciplinedpet.shieldaction",
+    "com.cczij.disciplinedpet.shieldconfiguration",
+    "com.cczij.disciplinedpet.liveactivity"
+  ],
+  "environment": {
+    "xcode": "26.6 (17F113)",
+    "available_disk": "21 GiB",
+    "disk_usage": "90%",
+    "asc_cli": "NOT_FOUND"
+  },
+  "integrity_checks": ["git diff --check: PASS", "Info.plist/entitlements plutil lint: PASS"],
+  "note": "No user-owned dirty or untracked file was changed, moved, reset, cleaned, or overwritten. The untracked tree hash includes files and directory markers without reading sensitive credential-file contents."
+}

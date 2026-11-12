@@ -1,0 +1,254 @@
+2026-08-24 14:09:39.337767+0800 DisciplinedPet[68257:12110741] [authorization] Failed to get service proxy: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.FamilyControlsAgent was invalidated from this process." UserInfo={NSDebugDescription=The connection to service named com.apple.FamilyControlsAgent was invalidated from this process.}
+2026-08-24 14:09:39.340317+0800 DisciplinedPet[68257:12110741] [authorization] Failed to get service proxy: Error Domain=NSCocoaErrorDomain Code=4099 "The connection to service named com.apple.FamilyControlsAgent was invalidated from this process." UserInfo={NSDebugDescription=The connection to service named com.apple.FamilyControlsAgent was invalidated from this process.}
+2026-08-24 14:09:41.592342+0800 DisciplinedPet[68257:12110741] [XPCErrors] non-launching port is incompatible with service identifier "com.apple.PointerUI.pointeruid.default-service"
+2026-08-24 14:09:41.721696+0800 DisciplinedPet[68257:12112230] [plugin] AddInstanceForFactory: No factory registered for id <CFUUID 0x120366dc0> F8BB1C28-BAE8-11D6-9C31-00039315CD46
+2026-08-24 14:09:41.723230+0800 DisciplinedPet[68257:12110741] [API] cannot add handler to 0 from 0 - dropping
+2026-08-24 14:09:41.767684+0800 DisciplinedPet[68257:12110741] [API] cannot add handler to 0 from 0 - dropping
+2026-08-24 14:09:42.377003+0800 DisciplinedPet[68257:12110741] [FocusAudio] Audio session active category=ambient route=Speaker
+FOCUMI_AUDIO session=active category=ambient route=Speaker
+2026-08-24 14:09:43.227731+0800 DisciplinedPet[68257:12111381] [carc] Invalidation handler: Connection cannot be formed.
+2026-08-24 14:09:43.293088+0800 DisciplinedPet[68257:12110741] [AVAudioSession Hang Risk]     AVAudioSession_iOS.mm:978   This method can lead to UI unresponsiveness if called on the main thread. Consider using the asynchronous activate/deactivate API instead for calls from the main thread.
+2026-08-24 14:09:43.364629+0800 DisciplinedPet[68257:12111383] [EnhanceDialogueProcessor] EnhanceDialogueProcessor.cpp:658   EnhanceDialogueProcessor has no tuning for unrecognized device type
+2026-08-24 14:09:43.367615+0800 DisciplinedPet[68257:12111383] [EnhanceDialogueProcessor] EnhanceDialogueProcessor.cpp:268   EnhanceDialogueProcessor() - Product does not have valid tuning at ''
+2026-08-24 14:09:43.386190+0800 DisciplinedPet[68257:12111383] [EnhanceDialogueProcessor] EnhanceDialogueProcessor.cpp:658   EnhanceDialogueProcessor has no tuning for unrecognized device type
+2026-08-24 14:09:43.386453+0800 DisciplinedPet[68257:12111383] [EnhanceDialogueProcessor] EnhanceDialogueProcessor.cpp:268   EnhanceDialogueProcessor() - Product does not have valid tuning at ''
+2026-08-24 14:09:43.485137+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1767  ReadPListFile: unable to open stream for LoudnessManager plist
+2026-08-24 14:09:43.485343+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1268  GetHardwarePlatformKey: cannot get acoustic ID
+2026-08-24 14:09:43.485540+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.485688+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.503585+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.503887+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.536532+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.536713+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.537527+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.537842+0800 DisciplinedPet[68257:12110741] [AQ]        LoudnessManager.mm:1222  IsHardwareSupported: no plist loaded, returning false
+2026-08-24 14:09:43.564585+0800 DisciplinedPet[68257:12110741] [FocusAudio] Audio player prepared asset=FirstLightSlow duration=164.648000
+FOCUMI_AUDIO asset=FirstLightSlow prepared duration=164.648
+2026-08-24 14:09:43.565369+0800 DisciplinedPet[68257:12111382] [AMCP]          HALC_ProxyIOContext.cpp:1676  HALC_ProxyIOContext::IOWorkLoop: skipping cycle due to overload
+objc[68257]: Class UIAccessibilityLoaderWebShared is implemented in both /Library/Developer/CoreSimulator/Volumes/iOS_24A5390f/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 27.0.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebKit.axbundle/WebKit (0x11ff30398) and /Library/Developer/CoreSimulator/Volumes/iOS_24A5390f/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 27.0.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebCore.axbundle/WebCore (0x121028310). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+2026-08-24 14:09:48.503538+0800 DisciplinedPet[68257:12110741] [FocusAudio] Audio playback verified asset=FirstLightSlow time=4.911937 volume=0.212500
+FOCUMI_AUDIO playback=verified asset=FirstLightSlow time=4.914145833333333 volume=0.2125
+Test Suite 'All tests' started at 2026-08-24 14:09:49.136.
+Test Suite 'All tests' passed at 2026-08-24 14:09:49.151.
+	 Executed 0 tests, with 0 failures (0 unexpected) in 0.000 (0.015) seconds
+◇ Test run started.
+↳ Testing Library Version: 1902
+↳ Target Platform: arm64-apple-ios13.0-simulator
+◇ Suite "App Group store" started.
+◇ Test "Store round trips an isolated value" started.
+✔ Test "Store round trips an isolated value" passed after 0.009 seconds.
+◇ Test "Corrupted data is rejected" started.
+✔ Test "Corrupted data is rejected" passed after 0.020 seconds.
+✔ Suite "App Group store" passed after 0.033 seconds.
+◇ Suite "Beta validation report" started.
+◇ Test "D2 and D7 count actual focus starts after an effective completion" started.
+✔ Test "D2 and D7 count actual focus starts after an effective completion" passed after 0.008 seconds.
+◇ Test "A sub-threshold completion does not create a D2 or D7 cohort" started.
+✔ Test "A sub-threshold completion does not create a D2 or D7 cohort" passed after 0.001 seconds.
+◇ Test "WTP is one-time, discrete, and its report contains no free-text fields" started.
+✔ Test "WTP is one-time, discrete, and its report contains no free-text fields" passed after 0.219 seconds.
+◇ Test "A dismissed price question is final and does not fabricate a response" started.
+✔ Test "A dismissed price question is final and does not fabricate a response" passed after 0.001 seconds.
+✔ Suite "Beta validation report" passed after 0.919 seconds.
+◇ Suite "Beta validation store" started.
+◇ Test "Custom prices are reduced to anonymous buckets" started.
+✔ Test "Custom prices are reduced to anonymous buckets" passed after 0.014 seconds.
+◇ Test "Store round trips an anonymous test ID and allowlisted event" started.
+✔ Test "Store round trips an anonymous test ID and allowlisted event" passed after 1.080 seconds.
+◇ Test "Corrupted validation data requires an explicit recovery decision" started.
+✔ Test "Corrupted validation data requires an explicit recovery decision" passed after 0.010 seconds.
+◇ Test "State keeps event identifiers unique and bounds local storage" started.
+✔ Test "State keeps event identifiers unique and bounds local storage" passed after 0.018 seconds.
+◇ Test "Store normalizes an oversized but valid loaded payload" started.
+✔ Test "Store normalizes an oversized but valid loaded payload" passed after 0.291 seconds.
+✔ Suite "Beta validation store" passed after 1.415 seconds.
+◇ Suite "Friend MVP reducer" started.
+◇ Test "Cocoon palette resolves safely away from the main queue" started.
+✔ Test "Cocoon palette resolves safely away from the main queue" passed after 0.136 seconds.
+◇ Test "Adoption uses the pet default name when the custom name is blank" started.
+✔ Test "Adoption uses the pet default name when the custom name is blank" passed after 0.001 seconds.
+◇ Test "Approved static companion routing keeps Milo and Max species consistent" started.
+✔ Test "Approved static companion routing keeps Milo and Max species consistent" passed after 0.001 seconds.
+◇ Test "Duration reaction presentation keeps companion and duration routing explicit" started.
+✔ Test "Duration reaction presentation keeps companion and duration routing explicit" passed after 0.001 seconds.
+◇ Test "Unexpected duration reaction values retain the approved companion default" started.
+✔ Test "Unexpected duration reaction values retain the approved companion default" passed after 0.001 seconds.
+◇ Test "Setup companion confirmation returns to Task Setup for the current Milo" started.
+✔ Test "Setup companion confirmation returns to Task Setup for the current Milo" passed after 0.010 seconds.
+◇ Test "Setup companion confirmation returns to Task Setup for the current Max" started.
+✔ Test "Setup companion confirmation returns to Task Setup for the current Max" passed after 0.001 seconds.
+◇ Test "Setup companion callback accepts the already selected Milo and Max" started.
+✔ Test "Setup companion callback accepts the already selected Milo and Max" passed after 0.239 seconds.
+◇ Test "Setup companion confirmation commits a Max-to-Milo selection" started.
+✔ Test "Setup companion confirmation commits a Max-to-Milo selection" passed after 0.022 seconds.
+◇ Test "Setup companion confirmation retains the Max confirmation path" started.
+✔ Test "Setup companion confirmation retains the Max confirmation path" passed after 0.019 seconds.
+◇ Test "Setup companion callback supports repeated bidirectional switches with legacy allowance values" started.
+✔ Test "Setup companion callback supports repeated bidirectional switches with legacy allowance values" passed after 0.017 seconds.
+◇ Test "An active session keeps its companion even when legacy allowance is positive" started.
+2026-08-24 14:09:52.485206+0800 DisciplinedPet[68257:12110741] [monitor] Failed to stop monitoring [DeviceActivity.DeviceActivityName(rawValue: "disciplined-pet.focus-deadline")]: Error Domain=UsageTrackingErrorDomain Code=2 "此应用程序尚未获得使用Family Controls的授权。" UserInfo={NSLocalizedDescription=此应用程序尚未获得使用Family Controls的授权。, NSLocalizedRecoverySuggestion=查看Family Controls模块了解更多关于授权访问用户设备活动的详细信息。}
+✔ Test "An active session keeps its companion even when legacy allowance is positive" passed after 0.528 seconds.
+◇ Test "v0.6 opening presentation only appears for normal idle" started.
+✔ Test "v0.6 opening presentation only appears for normal idle" passed after 0.001 seconds.
+◇ Test "The normal opening uses exactly one text-free cat and dog paw mark" started.
+✔ Test "The normal opening uses exactly one text-free cat and dog paw mark" passed after 0.001 seconds.
+◇ Test "Adoption keeps the name entered by the user" started.
+✔ Test "Adoption keeps the name entered by the user" passed after 0.001 seconds.
+◇ Test "Starting a valid session requests protection and freezes one deadline" started.
+✔ Test "Starting a valid session requests protection and freezes one deadline" passed after 0.001 seconds.
+◇ Test "Submitting an access request pauses focus and starts one 60 minute window" started.
+✔ Test "Submitting an access request pauses focus and starts one 60 minute window" passed after 0.009 seconds.
+◇ Test "Cancelling an access request keeps protection and focus eligibility unchanged" started.
+✔ Test "Cancelling an access request keeps protection and focus eligibility unchanged" passed after 0.001 seconds.
+◇ Test "Two access windows accumulate duration and receive distinct deadlines" started.
+✔ Test "Two access windows accumulate duration and receive distinct deadlines" passed after 0.001 seconds.
+◇ Test "Returning from access creates a fresh focus deadline and requests reapply once" started.
+✔ Test "Returning from access creates a fresh focus deadline and requests reapply once" passed after 0.001 seconds.
+◇ Test "A completed focus session adds bond once" started.
+✔ Test "A completed focus session adds bond once" passed after 0.001 seconds.
+◇ Test "An expired access window closes gently without completion growth" started.
+✔ Test "An expired access window closes gently without completion growth" passed after 0.001 seconds.
+◇ Test "Access-window reconciliation respects the 59:59 and 60:00 boundary" started.
+✔ Test "Access-window reconciliation respects the 59:59 and 60:00 boundary" passed after 0.001 seconds.
+◇ Test "Repeated return requests are idempotent after the window is closed" started.
+✔ Test "Repeated return requests are idempotent after the window is closed" passed after 0.001 seconds.
+◇ Test "Repeated end requests are idempotent after a session is ended" started.
+✔ Test "Repeated end requests are idempotent after a session is ended" passed after 0.001 seconds.
+◇ Test "Free focus is stored as an explicit mode" started.
+✔ Test "Free focus is stored as an explicit mode" passed after 0.001 seconds.
+◇ Test "Changing companion resets the new relationship without changing phase" started.
+✔ Test "Changing companion resets the new relationship without changing phase" passed after 0.001 seconds.
+◇ Test "Selecting Max from Setup persists the companion through every P0 presentation" started.
+✔ Test "Selecting Max from Setup persists the companion through every P0 presentation" passed after 0.012 seconds.
+◇ Test "Milo remains the consistent companion presentation" started.
+✔ Test "Milo remains the consistent companion presentation" passed after 0.001 seconds.
+◇ Test "Legacy MVP data migrates to the Beta duration set" started.
+✔ Test "Legacy MVP data migrates to the Beta duration set" passed after 0.005 seconds.
+◇ Test "Product phases keep their relatable pet scenes" started.
+✔ Test "Product phases keep their relatable pet scenes" passed after 0.001 seconds.
+◇ Test "Shield companion presentation maps the persisted dog identifier to Max art" started.
+✔ Test "Shield companion presentation maps the persisted dog identifier to Max art" passed after 0.001 seconds.
+◇ Test "Vintage character poses project the persisted dog identity as Max" started.
+✔ Test "Vintage character poses project the persisted dog identity as Max" passed after 0.231 seconds.
+◇ Test "Every retained pet action uses real multi-frame art" started.
+✔ Test "Every retained pet action uses real multi-frame art" passed after 0.017 seconds.
+◇ Test "Celebration animation excludes the two source frames with cropped heads" started.
+✔ Test "Celebration animation excludes the two source frames with cropped heads" passed after 0.001 seconds.
+◇ Test "Completion celebration is one 2–4 second, non-reward signature moment" started.
+✔ Test "Completion celebration is one 2–4 second, non-reward signature moment" passed after 0.001 seconds.
+◇ Test "Returning projection stays neutral and does not claim restored protection" started.
+✔ Test "Returning projection stays neutral and does not claim restored protection" passed after 0.001 seconds.
+◇ Test "Live Activity badges use dedicated opaque Milo and Max resources for every honest phase" started.
+✔ Test "Live Activity badges use dedicated opaque Milo and Max resources for every honest phase" passed after 0.184 seconds.
+◇ Test "Live Activity presentation labels stay honest while returning" started.
+✔ Test "Live Activity presentation labels stay honest while returning" passed after 0.004 seconds.
+◇ Test "End confirmation is presentation-only and requires its final explicit action" started.
+✔ Test "End confirmation is presentation-only and requires its final explicit action" passed after 0.001 seconds.
+◇ Test "Focus dynamic companion copy resolves from the String Catalog in English and Simplified Chinese" started.
+✔ Test "Focus dynamic companion copy resolves from the String Catalog in English and Simplified Chinese" passed after 0.001 seconds.
+◇ Test "Visible duration labels use min in English and 分钟 in Chinese" started.
+✔ Test "Visible duration labels use min in English and 分钟 in Chinese" passed after 0.007 seconds.
+◇ Test "Interface language follows Chinese system languages and otherwise uses English" started.
+✔ Test "Interface language follows Chinese system languages and otherwise uses English" passed after 0.001 seconds.
+◇ Test "Explicit interface language overrides the system choice and restores from preferences" started.
+✔ Test "Explicit interface language overrides the system choice and restores from preferences" passed after 0.005 seconds.
+◇ Test "Production settings omit internal and on-device data sections while retaining language selection" started.
+✔ Test "Production settings omit internal and on-device data sections while retaining language selection" passed after 0.005 seconds.
+◇ Test "Settings catalog resolves the language choice in Chinese" started.
+✔ Test "Settings catalog resolves the language choice in Chinese" passed after 0.075 seconds.
+◇ Test "Settings uses the selected app locale for visible copy and the current companion" started.
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" recorded an issue at FriendMVPReducerTests.swift:879:9: Expectation failed: (FocumiSettingsCopy.text("Settings", locale: english) → "设置") == "Settings"
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" recorded an issue at FriendMVPReducerTests.swift:880:9: Expectation failed: (FocumiSettingsCopy.text("Close", locale: english) → "关闭") == "Close"
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" recorded an issue at FriendMVPReducerTests.swift:881:9: Expectation failed: (FocumiSettingsCopy.text("First hello", locale: english) → "初次相遇") == "First hello"
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" recorded an issue at FriendMVPReducerTests.swift:882:9: Expectation failed: (FocumiSettingsCopy.text("Enabled", locale: english) → "已开启") == "Enabled"
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" recorded an issue at FriendMVPReducerTests.swift:886:9: Expectation failed: (FocumiSettingsCopy.text("Deep Blue", locale: english) → "深蓝") == "Deep Blue"
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" recorded an issue at FriendMVPReducerTests.swift:888:9: Expectation failed: (FocumiSettingsCopy.sharedMemoriesTitle(companionName: "Max", locale: english) → "与 Max 的共同记录") == "Shared moments with Max"
+✘ Test "Settings uses the selected app locale for visible copy and the current companion" failed after 0.016 seconds with 6 issues.
+◇ Test "Pact readiness uses an honest compact presentation for each required setup state" started.
+✔ Test "Pact readiness uses an honest compact presentation for each required setup state" passed after 0.001 seconds.
+◇ Test "Companion copy uses shared-page language rather than mechanical guard language" started.
+✔ Test "Companion copy uses shared-page language rather than mechanical guard language" passed after 0.002 seconds.
+◇ Test "The hand-drawn companion icon set covers Pact readiness and settings without SF symbols" started.
+✔ Test "The hand-drawn companion icon set covers Pact readiness and settings without SF symbols" passed after 0.001 seconds.
+◇ Test "Free companion changes archive the old relationship and preserve legacy allowance data" started.
+✔ Test "Free companion changes archive the old relationship and preserve legacy allowance data" passed after 0.010 seconds.
+◇ Test "Single paper preferences ignore a legacy theme value and keep music choices" started.
+✔ Test "Single paper preferences ignore a legacy theme value and keep music choices" passed after 0.087 seconds.
+◇ Test "Focus music surfaces an unavailable bundled resource instead of claiming playback" started.
+2026-08-24 14:09:53.266616+0800 DisciplinedPet[68257:12110741] [FocusAudio] Audio session active category=ambient route=Speaker
+FOCUMI_AUDIO session=active category=ambient route=Speaker
+2026-08-24 14:09:53.267617+0800 DisciplinedPet[68257:12110741] [FocusAudio] Audio asset unavailable asset=DeepBlueSlow
+✔ Test "Focus music surfaces an unavailable bundled resource instead of claiming playback" passed after 0.106 seconds.
+◇ Test "New companions begin with music while a manual mute remains persisted" started.
+✔ Test "New companions begin with music while a manual mute remains persisted" passed after 0.015 seconds.
+◇ Test "Music route stays continuous through the access and return loop" started.
+✔ Test "Music route stays continuous through the access and return loop" passed after 0.001 seconds.
+◇ Test "Music routing never activates while muted, inactive, or before first presentation" started.
+✔ Test "Music routing never activates while muted, inactive, or before first presentation" passed after 0.001 seconds.
+◇ Test "Music program gains preserve the saved volume while keeping Home quieter than Focus" started.
+✔ Test "Music program gains preserve the saved volume while keeping Home quieter than Focus" passed after 0.001 seconds.
+◇ Test "Default Home and Focus music use distinct published CC0 assets" started.
+✔ Test "Default Home and Focus music use distinct published CC0 assets" passed after 0.001 seconds.
+◇ Test "Legacy music identifiers migrate to the replacement tracks" started.
+✔ Test "Legacy music identifiers migrate to the replacement tracks" passed after 0.001 seconds.
+◇ Test "Frame timing loops and one-shot reactions stay deterministic" started.
+✔ Test "Frame timing loops and one-shot reactions stay deterministic" passed after 0.001 seconds.
+◇ Test "Product scenes select the matching real animation clip" started.
+✔ Test "Product scenes select the matching real animation clip" passed after 0.001 seconds.
+◇ Test "Beta exposes exactly the four confirmed focus durations" started.
+✔ Test "Beta exposes exactly the four confirmed focus durations" passed after 0.001 seconds.
+◇ Test "Unreadable Beta data is preserved and requires an explicit recovery choice" started.
+✔ Test "Unreadable Beta data is preserved and requires an explicit recovery choice" passed after 0.002 seconds.
+◇ Test "Relationship stages advance only after completed sessions" started.
+✔ Test "Relationship stages advance only after completed sessions" passed after 0.001 seconds.
+◇ Test "Focus deadline monitoring always uses an Apple-valid interval" started.
+✔ Test "Focus deadline monitoring always uses an Apple-valid interval" passed after 0.001 seconds.
+◇ Test "Live Activity mirrors the active focus without owning its deadline" started.
+✔ Test "Live Activity mirrors the active focus without owning its deadline" passed after 0.001 seconds.
+◇ Test "Live Activity switches to the gentle return state during access" started.
+✔ Test "Live Activity switches to the gentle return state during access" passed after 0.001 seconds.
+◇ Test "Live Activity ends for inactive or expired sessions" started.
+✔ Test "Live Activity ends for inactive or expired sessions" passed after 0.001 seconds.
+◇ Test "Presentation keeps persisted dog identity compatible while displaying Max" started.
+✔ Test "Presentation keeps persisted dog identity compatible while displaying Max" passed after 0.001 seconds.
+◇ Test "Only a return to focus creates a performance cue" started.
+✔ Test "Only a return to focus creates a performance cue" passed after 0.001 seconds.
+◇ Test "Return signature keeps per-pet production routing and a static Reduce Motion landing" started.
+✔ Test "Return signature keeps per-pet production routing and a static Reduce Motion landing" passed after 0.001 seconds.
+◇ Test "Phase 1 performance manifests retain per-companion fixed anchors" started.
+✔ Test "Phase 1 performance manifests retain per-companion fixed anchors" passed after 0.001 seconds.
+◇ Test "Phase 1 performance covers every visible character beat without moving its root" started.
+✔ Test "Phase 1 performance covers every visible character beat without moving its root" passed after 0.002 seconds.
+◇ Test "Companion access copy keeps dynamic names localized without claiming protection success" started.
+✔ Test "Companion access copy keeps dynamic names localized without claiming protection success" passed after 0.004 seconds.
+◇ Test "Completion presentation does not settle a session" started.
+✔ Test "Completion presentation does not settle a session" passed after 0.001 seconds.
+✘ Suite "Friend MVP reducer" failed after 1.817 seconds with 6 issues.
+◇ Suite "P0 capability reducer" started.
+◇ Test "Protection request requires authorization" started.
+✔ Test "Protection request requires authorization" passed after 0.001 seconds.
+◇ Test "Protection request requires a selection" started.
+✔ Test "Protection request requires a selection" passed after 0.001 seconds.
+◇ Test "Valid requests increment generation" started.
+◇ Test case passing 1 argument kind → .apply to "Valid requests increment generation" started.
+​◇ Test case passing 1 argument kind → .clear to "Valid requests increment generation" started.
+​◇ Test case passing 1 argument kind → .reapply to "Valid requests increment generation" started.
+​✔ Test "Valid requests increment generation" with 3 test cases passed after 0.019 seconds.
+◇ Test "Stale command receipt is rejected" started.
+✔ Test "Stale command receipt is rejected" passed after 0.001 seconds.
+◇ Test "Authorization loss never preserves a local protection claim" started.
+✔ Test "Authorization loss never preserves a local protection claim" passed after 0.001 seconds.
+◇ Test "Reauthorization starts a new clean session without restoring the old claim" started.
+✔ Test "Reauthorization starts a new clean session without restoring the old claim" passed after 0.001 seconds.
+◇ Test "authorizationObserved 后收到 commandRejected 时保留授权状态与错误码" started.
+✔ Test "authorizationObserved 后收到 commandRejected 时保留授权状态与错误码" passed after 0.001 seconds.
+✔ Suite "P0 capability reducer" passed after 0.020 seconds.
+◇ Suite "Shared envelope" started.
+◇ Test "Only the matching unconsumed generation is consumable" started.
+✔ Test "Only the matching unconsumed generation is consumable" passed after 0.010 seconds.
+◇ Test "Intent expires at its deadline" started.
+✔ Test "Intent expires at its deadline" passed after 0.001 seconds.
+◇ Test "Envelope round trips through Codable" started.
+✔ Test "Envelope round trips through Codable" passed after 0.001 seconds.
+✔ Suite "Shared envelope" passed after 0.013 seconds.
+✘ Test run with 96 tests in 6 suites failed after 4.225 seconds with 6 issues.
